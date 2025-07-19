@@ -1,0 +1,69 @@
+{
+  "combination_date": "2025-07-19",
+  "summary": "Final Combined Datasets for Healthcare LLM Fine-tuning",
+  "training_dataset": {
+    "dataset_type": "TRAINING",
+    "source_files": {
+      "llm_ready_train.json": 5634,
+      "processed1_train.json": 5634,
+      "processed2_train.json": 5634
+    },
+    "total_records": 2309,
+    "unique_labels": 866,
+    "duplicates_removed": 14593,
+    "text_statistics": {
+      "avg_length": 534,
+      "min_length": 28,
+      "max_length": 18705
+    },
+    "top_conditions": {
+      "Chicken Pox": 61,
+      "Dengue": 59,
+      "Common Cold": 59,
+      "Arthritis": 58,
+      "Cervical Spondylosis": 57,
+      "Malaria": 56,
+      "Psoriasis": 56,
+      "Pneumonia": 55,
+      "Migraine": 54,
+      "Typhoid": 54
+    },
+    "output_file": "FInal Processed Data\\final_fine_tune_train.json"
+  },
+  "test_dataset": {
+    "dataset_type": "TEST",
+    "source_files": {
+      "llm_ready_test.json": 1409,
+      "processed1_test.json": 1409,
+      "processed2_test.json": 1409
+    },
+    "total_records": 910,
+    "unique_labels": 261,
+    "duplicates_removed": 3317,
+    "text_statistics": {
+      "avg_length": 385,
+      "min_length": 28,
+      "max_length": 9192
+    },
+    "top_conditions": {
+      "Malaria": 25,
+      "Pneumonia": 25,
+      "Bronchial Asthma": 24,
+      "Dengue": 23,
+      "Varicose Veins": 23,
+      "Common Cold": 23,
+      "Chicken Pox": 23,
+      "Jaundice": 22,
+      "Impetigo": 22,
+      "Typhoid": 21
+    },
+    "output_file": "FInal Processed Data\\final_fine_tune_test.json"
+  },
+  "recommendations": {
+    "use_for_training": "FInal Processed Data\\final_fine_tune_train.json",
+    "use_for_testing": "FInal Processed Data\\final_fine_tune_test.json",
+    "recommended_model": "microsoft/biogpt-large",
+    "expected_performance": "85-92% accuracy with combined dataset",
+    "training_ready": true
+  }
+}
