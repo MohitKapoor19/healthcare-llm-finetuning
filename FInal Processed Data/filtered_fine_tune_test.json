@@ -1,0 +1,2774 @@
+[
+  {
+    "text":"I have been experiencing itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, and abdominal pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been experiencing fatigue, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, and abnormal menstruation.",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"I have been experiencing constipation, pain during bowel movements, pain in anal region, bloody stool, and irritation in anus.",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, weight loss, cough, high fever, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, and blood in sputum.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I have been experiencing vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, and fluid overload.",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"I have been experiencing vomiting, breathlessness, sweating, and chest pain.",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"I have been experiencing stomach pain, acidity, ulcers on tongue, vomiting, cough, and chest pain.",
+    "label_string":"Gerd"
+  },
+  {
+    "text":"I have been experiencing skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, and red spots over body.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have been experiencing vomiting, headache, and altered sensorium.",
+    "label_string":"Paralysis (Brain Hemorrhage)"
+  },
+  {
+    "text":"I have been experiencing burning micturition, bladder discomfort, and continuous feel of urine.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been experiencing skin rash, high fever, blister, red sore around nose, and yellow crust ooze.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing itching, yellowish skin, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"I have abdominal pain or discomfort that is worse when I eat or drink. I have a loss of appetite and feel fatigued after going to the bathroom. I feel very tired all the time",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have a burning feeling in my stomach. It's worse when I eat or drink. I also get heartburn, indigestion, and nausea.",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, and muscle pain.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing vomiting, sunken eyes, dehydration, and diarrhoea.",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"I have been experiencing fatigue, cramps, bruising, obesity, swollen legs, and prominent veins on calf.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have been experiencing joint pain, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, and stomach bleeding.",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"I have been experiencing fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, and family history.",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"I have been experiencing pus filled pimples, blackheads, and scurring.",
+    "label_string":"Acne"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have been experiencing vomiting, headache, and weakness of one body side.",
+    "label_string":"Paralysis (Brain Hemorrhage)"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, shivering, chills, and watering from eyes.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have been experiencing vomiting, headache, nausea, spinning movements, loss of balance, and unsteadiness.",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"I have been experiencing joint pain, neck pain, knee pain, hip joint pain, swelling joints, and painful walking.",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"My skin has been acting up recently, it's been itchy and I've been getting rashes. There are also some spots that are a different color than the rest of my skin, and I have these lumps or bumps that weren't there before.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, and prominent veins on calf.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have been experiencing skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, and inflammatory nails.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, stomach pain, burning micturition, and spotting  urination.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing vomiting, headache, weakness of one body side, and altered sensorium.",
+    "label_string":"Paralysis (Brain Hemorrhage)"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, and dischromic  patches.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing fatigue, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, and polyuria.",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"I have been experiencing fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, and polyuria.",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"I have been experiencing stomach pain, ulcers on tongue, vomiting, cough, and chest pain.",
+    "label_string":"Gerd"
+  },
+  {
+    "text":"I have heartburn and indigestion. I frequently vomit everything I eat, and I have trouble swallowing food because it gets caught in my throat. My upper abdomen is bothering me.",
+    "label_string":"Gastroesophageal Reflux Disease"
+  },
+  {
+    "text":"I have been experiencing fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, and abnormal menstruation.",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"I have been experiencing vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, and internal itching.",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"I have been experiencing joint pain, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, and muscle pain.",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"I have a constant hunger and appetite. Sometimes my stomach will cramp and spasm. After I eat, I feel bloated and gassy.",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have been experiencing vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, and palpitations.",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"I have been experiencing vomiting, breathlessness, and chest pain.",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"My skin sometimes peels off because of my rashes. I get sick more often because of it. My hands sometimes shake and I get shaky.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look, and belly pain.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been feeling very thirsty and hungry lately. I also feel very tired at times.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have been experiencing stiff neck, swelling joints, movement stiffness, and painful walking.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have been experiencing vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, slurred speech, irritability, and palpitations.",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, and stomach bleeding.",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, shivering, and watering from eyes.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have been experiencing fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, and abnormal menstruation.",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"I have been experiencing stomach pain, acidity, ulcers on tongue, cough, and chest pain.",
+    "label_string":"Gerd"
+  },
+  {
+    "text":"I have been experiencing skin rash, blackheads, and scurring.",
+    "label_string":"Acne"
+  },
+  {
+    "text":"I have been experiencing muscle weakness, stiff neck, swelling joints, movement stiffness, and painful walking.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have been experiencing chills, high fever, sweating, headache, nausea, diarrhoea, and muscle pain.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I've been feeling really sick lately. I've been getting chills and I'm always tired. I have this cough that just won't go away. It's really hard to breathe when I cough and my chest hurts. I've also been coughing up this really gross, rusty phlegm.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"I have been experiencing a high fever for the past few days. I also feel weak and my muscles pain. I cannot work all day because of this.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I've been feeling very sick. I have a high fever, shortness of breath, and I'm sweating and shivering. I've also been coughing up a lot of brownish phlegm and my heart is racing.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, stomach pain, and burning micturition.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing skin rash, pus filled pimples, and blackheads.",
+    "label_string":"Acne"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, high fever, sweating, headache, diarrhoea, and muscle pain.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"My neck has been extremely stiff and my muscles have been extremely weak. I have difficulty moving around without feeling stiff because of the swelling in my joints. Walking is also very difficult.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, and blood in sputum.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I have been experiencing indigestion, loss of appetite, abdominal pain, passage of gases, and internal itching.",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"I have a really strong appetite and I'm always hungry. My stomach sometimes aches and cramps. I have really painful gas and bloating after eating.",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, nodal skin eruptions, and dischromic  patches.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing weakness in limbs, neck pain, dizziness, and loss of balance.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I have been experiencing fatigue, high fever, breathlessness, family history, and mucoid sputum.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I've been coughing a lot and it's hard to breathe. I've been coughing up a lot of mucus and my fever is high.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing a lot of itching and redness on my skin. I have also noticed that my nails are becoming brittle and have started to develop dents. I am worried that this could be a sign of something more serious.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing acidity, indigestion, headache, blurred and distorted vision, stiff neck, depression, irritability, and visual disturbances.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been experiencing headache, chest pain, dizziness, loss of balance, and lack of concentration.",
+    "label_string":"Hypertension "
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, and muscle pain.",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"I have been experiencing fatigue, cough, high fever, breathlessness, family history, and mucoid sputum.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I've been having a hard time breathing lately. I feel like I can't get enough air, and I'm always coughing. I've also been really tired, and I've been coughing up a lot of mucus. I'm not sure what's wrong with me, but I'm really worried.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing vomiting, nausea, spinning movements, loss of balance, and unsteadiness.",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"I have a metallic taste in my mouth and my tongue feels weird. I also have joint and muscle pain.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, yellowish skin, dark urine, nausea, abdominal pain, diarrhoea, mild fever, yellowing of eyes, and muscle pain.",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"I have been experiencing constipation, pain in anal region, bloody stool, and irritation in anus.",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"I have been experiencing vomiting, sweating, and chest pain.",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, cough, high fever, breathlessness, malaise, phlegm, chest pain, fast heart rate, and rusty sputum.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have been experiencing skin rash, pus filled pimples, blackheads, and scurring.",
+    "label_string":"Acne"
+  },
+  {
+    "text":"I've been feeling really down lately, and my pee smells like rotten eggs. My kidney area hurts, and I can't seem to hold my urine in. I have to go to the bathroom all the time.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been experiencing itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, and receiving unsterile injections.",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, coma, and stomach bleeding.",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"I have a really high fever, I'm so itchy, I'm shaking and I've been throwing up. I've also got a headache and I've been sweating a lot. I'm also feeling really sick to my stomach and my muscles are aching.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, and abdominal pain.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have been experiencing fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, and abnormal menstruation.",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"I have been experiencing yellowish skin, nausea, loss of appetite, yellowing of eyes, and family history.",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"I've been feeling really sick lately. My nose is running like crazy, and I can't stop sneezing. I'm also exhausted and have a fever.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing constipation, pain during bowel movements, bloody stool, and irritation in anus.",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, and red spots over body.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing vomiting, dehydration, and diarrhoea.",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"I have been experiencing acidity, indigestion, headache, blurred and distorted vision, excessive hunger, depression, irritability, and visual disturbances.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have a rash on my face that is not healing. I have tried some medications but it is not helping much. I also have small sores near my nose that are painful and difficult to handle.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing muscle wasting, patches in throat, high fever, and extra marital contacts.",
+    "label_string":"Aids"
+  },
+  {
+    "text":"I have a mild fever and blood in my urine. My head hurts almost constantly, and I frequently have to urinate very badly. I also have a pain in my lower back.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, chills, and watering from eyes.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have been experiencing headache, dizziness, loss of balance, and lack of concentration.",
+    "label_string":"Hypertension "
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, yellowish skin, dark urine, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have been experiencing chills, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, and rusty sputum.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, and rusty sputum.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have been experiencing breathlessness, sweating, and chest pain.",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"I have been experiencing skin rash, high fever, blister, and red sore around nose.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I've been having trouble breathing lately. I've been coughing a lot, and my chest feels tight. I've also been feeling very tired and weak.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, cough, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, and rusty sputum.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have a rash around my nose and lips that is red and painful. It has some yellow fluid coming out of it.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing burning micturition, bladder discomfort, foul smell of urine, and continuous feel of urine.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been experiencing vomiting, fatigue, anxiety, sweating, headache, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, and palpitations.",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"I have small dents in my nails. My joints are hurting a lot. I have a silver like dusting on my skin, especially on my back.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been losing weight and having trouble gaining weight. I have pain and discomfort in my stomach that is relieved by taking antacids. My mouth tastes bad.",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, and muscle pain.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have a rash all over my body. It's really itchy and uncomfortable. I'm also feeling really tired and exhausted.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing itching, stomach pain, burning micturition, and spotting  urination.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing joint pain, knee pain, hip joint pain, swelling joints, and painful walking.",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, high fever, headache, nausea, diarrhoea, and muscle pain.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have a rash all over my body that is itchy and red. Some of the patches are a different color than my skin and there are some lumps or pimples on my skin.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, high fever, headache, nausea, constipation, diarrhoea, toxic look, and belly pain.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, and muscle pain.",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"I've been feeling really itchy all over, and I've been throwing up. I've also lost a lot of weight, and I'm always tired. My skin and my pee are both yellow, and my stomach hurts.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I've gained a lot of weight and am now quite fat. My appetite varies, and I have cravings for various things.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have trouble breathing and my face and chest are swollen. My eyes are itchy and I have a dry cough.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have a lot of itchy bumps on my skin that sometimes turn red or rough. I also have some strange pimples that look like little balls and some weird spots that are a different color than the rest of my skin.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing vomiting, weakness of one body side, and altered sensorium.",
+    "label_string":"Paralysis (Brain Hemorrhage)"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, cough, high fever, breathlessness, sweating, malaise, chest pain, fast heart rate, and rusty sputum.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have noticed that my legs are swollen and the blood vessels are visible. I have swollen legs and I can see a stream of swollen veins on my calves.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have been having a lot of pain in my back and neck. I also have a cough that won't go away and I feel weak and dizzy.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I've been feeling really sick. I have a fever, chills, nausea, and a headache. I've also been sweating a lot and my muscles ache.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing back pain, weakness in limbs, neck pain, dizziness, and loss of balance.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I have been experiencing skin rash, high fever, red sore around nose, and yellow crust ooze.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing bladder discomfort, foul smell of urine, and continuous feel of urine.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I've been feeling really sick and I've lost my appetite. I've also noticed some red spots on my arms, neck, and face that itch when I touch them.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have these large, bulging veins on my legs that are really painful. They're really visible and I'm worried about them.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have been feeling really thirsty and have been urinating a lot more than usual. My mouth and throat are always dry. I have also been feeling really hungry and have been eating a lot more than usual.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I've been scratching myself a lot lately, and my skin is covered in rashy places. I also have a few pimples that are pretty firm, and there are some spots on my body that are a different shade of brown than the rest of my skin.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I'm having a hard time breathing. I'm not feeling well, and I'm sweating a lot. I have a lot of mucous in my throat and my chest hurts. My breathing is labored, and the phlegm I'm coughing up is a weird color.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, and blood in sputum.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I have varicose veins in my legs. They are very painful and make it difficult to sleep at night. I also get cramps when I sprint.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have red spots on my arms and legs that are itchy and inflamed. I have been feeling sick to my stomach and have a constant urge to vomit. I also have a mild fever.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have been experiencing vomiting, indigestion, abdominal pain, passage of gases, and internal itching.",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"I have to pee a lot, and it's hard to hold it in. I feel dizzy and confused. I can't see very well.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have a sour taste in my mouth all the time, even when I haven't eaten anything acidic. I also get hiccups and a lump in my throat a lot.",
+    "label_string":"Gastroesophageal Reflux Disease"
+  },
+  {
+    "text":"I have been experiencing vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, and history of alcohol consumption.",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"I have a dry cough that won't go away. I also have palpitations and my infections don't seem to be getting better. Sometimes my throat hurts, but it seems to get better.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I'm having trouble healing my wounds. My feet and hands are tingling and numb. I feel weak and fragile.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have sores around my nose that are crusted over and hard to touch. They used to ooze a yellow-rust colored liquid. It is taking a long time to heal.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I've been itching and have rashy patches all over my skin recently. There are also some regions that don't appear to be the regular tone of my skin, and I've experienced some painful bumps.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing fatigue, cough, high fever, breathlessness, and family history.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing itching, fatigue, lethargy, yellowish skin, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, and receiving unsterile injections.",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"I have been experiencing fatigue, cramps, bruising, obesity, swollen blood vessels, and prominent veins on calf.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I'm always tired, and my mouth tastes terrible. My throat itches, and my muscles burn and ache. Sometimes I have cramps all over my body.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have been experiencing fatigue, weight gain, cold hands and feets, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, and abnormal menstruation.",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"I have been experiencing fatigue, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, and abnormal menstruation.",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"I have been experiencing burning micturition, bladder discomfort, and foul smell of urine.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I've been having abdominal pain for a few days now. It's been coming and going, but it's really unpleasant. I've also been constipated and vomiting. I'm really concerned about my health.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I've been feeling really weak in my muscles lately and my neck has been really stiff. My joints have been swollen and it's hard for me to move around. It's also been painful to walk.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have a rash that is spreading all over my skin and it is very itchy. I also have some discolored spots and little bumps all over my skin.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing vomiting, sunken eyes, and diarrhoea.",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"I've been really itchy all over my body, and I've been getting chills and vomiting. My fever is really high, and I've been sweating a lot. I also have a headache, and I feel nauseous. My muscles are really sore.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, fatigue, weight loss, high fever, yellowish skin, and abdominal pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been experiencing skin rash, high fever, blister, and yellow crust ooze.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing skin rash, chills, joint pain, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, and red spots over body.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, fatigue, weight loss, yellowish skin, dark urine, and abdominal pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been experiencing a lot of belly pain and constipation. I also feel like I need to vomit, and I am feeling very weak.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing fatigue, cramps, obesity, swollen legs, swollen blood vessels, and prominent veins on calf.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have been experiencing itching, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, and red spots over body.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have a sour taste in my mouth and I've been belching a lot. My upper abdomen feels full and pressed in.",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have been experiencing mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, and abnormal menstruation.",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"I have been having severe belly pain and constipation for the past few days. I also have a fever, chills, and headaches every night. I am really uncomfortable.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, chills, fatigue, cough, high fever, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, and muscle pain.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing skin rash, chills, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, and red spots over body.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have a metallic taste in my mouth, and also have a sense of change of taste and smell. Sometimes get very unbearable joint pain and muscle pain",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, fatigue, lethargy, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, and red spots over body.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing vomiting, fatigue, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, and palpitations.",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"Long-term infection with the hepatitis C virus is known as chronic hepatitis C. Chronic hepatitis C is usually a \"silent\" infection for many years, until the virus damages the liver enough to cause the signs and symptoms of liver disease. Signs and symptoms include:  Bleeding easily Bruising easily Fatigue Poor appetite Yellow discoloration of the skin and eyes (jaundice) Dark-colored urine Itchy skin Fluid buildup in your abdomen (ascites) Swelling in your legs Weight loss Confusion, drowsiness and slurred speech (hepatic encephalopathy) Spiderlike blood vessels on your skin (spider angiomas)  Every chronic hepatitis C infection starts with an acute phase. Acute hepatitis C usually goes undiagnosed because it rarely causes symptoms. When signs and symptoms are present, they may include jaundice, along with fatigue, nausea, fever and muscle aches. Acute symptoms appear one to three months after exposure to the virus and last two weeks to three months. Acute hepatitis C infection doesn't always become chronic. Some people clear HCV from their bodies after the acute phase, an outcome known as spontaneous viral clearance. In studies of people diagnosed with acute HCV, rates of spontaneous viral clearance have varied from 15% to 25%. Acute hepatitis C also responds well to antiviral therapy.",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"UTIs don't always cause symptoms. When they do, they may include: UTI  A strong urge to urinate that doesn't go away A burning feeling when urinating Urinating often, and passing small amounts of urine Urine that looks cloudy Urine that appears red, bright pink or cola-colored \u2014 signs of blood in the urine Strong-smelling urine Pelvic pain, in women \u2014 especially in the center of the pelvis and around the area of the pubic bone  In older adults, UTIs may be overlooked or mistaken for other conditions. UTI Types of urinary tract infections Each type of UTI may result in more-specific symptoms. The symptoms depend on which part of the urinary tract is affected. UTI     Part of urinary tract affected Signs and symptoms      Kidneys   Back or side pain High fever Shaking and chills Nausea Vomiting     Bladder   Pelvic pressure Lower belly discomfort Frequent, painful urination Blood in urine     Urethra   Burning with urination Discharge     ",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been experiencing itching, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, and receiving unsterile injections.",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"I've been having a headache that feels like a sharp pain in my forehead, and I've also been feeling dizzy and having chest pain.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I have been experiencing skin rash, blister, red sore around nose, and yellow crust ooze.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, and fluid overload.",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, high fever, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, and stomach bleeding.",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, shivering, and chills.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, swelled lymph nodes, malaise, and red spots over body.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I've been having neck pain, instability, and balance concerns.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I have a rash that won't go away and it itches. I also have some color-different areas and bumps on my skin that resemble knots or lumps.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing eyesight problems, increased appetite, a sore neck, melancholy, irritability, regular headaches, acid reflux, indigestion, and frequent migraines. These symptoms have been making my regular activities more challenging and causing me a great deal of distress.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been having headaches for a while now. They are usually on the left side of my head and are very painful. I also get nausea, vomiting, and sensitivity to light and sound. I have tried taking over-the-counter pain relievers, but they don't seem to help much.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have blood in my urine and a low-grade fever. I've also been having headaches and a strong, uncontrollable urge to urinate. I've also started having lower back pain.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been experiencing burning micturition, foul smell of urine, and continuous feel of urine.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, chills, fatigue, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, and muscle pain.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, excessive hunger, muscle weakness, irritability, and abnormal menstruation.",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"I have been experiencing vomiting, breathlessness, and sweating.",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"I have been experiencing high fever, blister, red sore around nose, and yellow crust ooze.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, and yellowing of eyes.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, fatigue, weight loss, high fever, yellowish skin, and dark urine.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I've been feeling really itchy all over, and I've been throwing up. I'm also really tired, and I've lost a lot of weight. My skin and my pee are both yellow, and my stomach hurts.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have a rash on my face that is red, swollen, and tender to the touch. It is also very uncomfortable to handle.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, and visual disturbances.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been feeling bloated and uneasy for a while now. I've also been losing weight and I don't like eating as much as I used to. Sometimes I get bloody vomit and dark, tarry stools.",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have been experiencing skin rash, chills, joint pain, vomiting, fatigue, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, and red spots over body.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have a lot of sneezing and a sore throat. My lips and the skin around my eyes will sometimes swell up. I can't stop sneezing once I start.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have some strange veins on my legs that I'm not sure about. I'm a bit overweight and I'm worried about them.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I've been feeling really sick and exhausted lately. My throat is scratchy, and my nose is running a lot. I also have a headache and my neck feels swollen.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing vomiting, yellowish skin, swelling of stomach, distention of abdomen, history of alcohol consumption, and fluid overload.",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"I have been experiencing skin rash, joint pain, skin peeling, silver like dusting, and inflammatory nails.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing skin rash, stomach pain, burning micturition, and spotting  urination.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing skin rash, joint pain, silver like dusting, small dents in nails, and inflammatory nails.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing joint pain, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, and nodal skin eruptions.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, high fever, headache, nausea, abdominal pain, diarrhoea, toxic look, and belly pain.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, and stomach bleeding.",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"I've been feeling really tired lately. I can barely keep my eyes open during the day, and I've been feeling lethargic and unable to motivate myself. I've also been having a lot of trouble sleeping.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, and receiving unsterile injections.",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"I have been experiencing back pain, weakness in limbs, neck pain, and dizziness.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I have been experiencing fatigue, yellowish skin, nausea, loss of appetite, and family history.",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"I have been experiencing vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, and blood in sputum.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I've been having a persistent cough, trouble breathing, and fatigue. I have a fever and I've been coughing up a lot of thick, mucusy sputum. I feel pretty sick because of how tired and drained I am.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have to pee a lot and I'm always hungry. I get dizzy and confused a lot. I've also lost my eyesight.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I've been having diarrhea and constipation, which is really bothering me. I have a really bad stomachache, and I'm always tired and don't want to eat.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing vomiting, yellowish skin, abdominal pain, swelling of stomach, history of alcohol consumption, and fluid overload.",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"I have been experiencing vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, and muscle pain.",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"I've been feeling really sick. I've been really tired and I just don't feel good. I've had a bad cough and my throat is really sore. My nose is really congested and I have a lot of sinus pressure. I just feel really run down and miserable.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been having a headache for the past week. It started out as a dull ache, but it has gotten worse and is now a sharp pain. It is also accompanied by stomach pains, constipation, and diarrhea. I am really worried about it.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, and abnormal menstruation.",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"I have severe nausea and chest discomfort. I have been having chest discomfort lately. I often shiver a lot and feel really nervous. I have been taking a new medication for my high blood pressure.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing patches in throat, high fever, and extra marital contacts.",
+    "label_string":"Aids"
+  },
+  {
+    "text":"I have a rash on my skin that is red and itchy. It bleeds when I scratch it. I also have little dents in my nails and they are inflamed.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, fatigue, weight loss, high fever, dark urine, and abdominal pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been experiencing fatigue, cramps, bruising, swollen legs, swollen blood vessels, and prominent veins on calf.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have been experiencing vomiting, loss of appetite, abdominal pain, passage of gases, and internal itching.",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have been experiencing muscle weakness, stiff neck, swelling joints, and movement stiffness.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have been experiencing itching, fatigue, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, and receiving unsterile injections.",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"I have been experiencing fatigue, weight gain, cold hands and feets, mood swings, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, and abnormal menstruation.",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"I've been feeling really sick. I have a high fever, chills, and a headache. I've also been vomiting and sweating a lot. I'm also really itchy and my muscles hurt.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing back pain, weakness in limbs, neck pain, and loss of balance.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I have been experiencing vomiting, fatigue, anxiety, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, and palpitations.",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, stomach pain, and spotting  urination.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have a lot of heartburn and acid reflux. I also get nauseous and throw up after I eat.",
+    "label_string":"Gastroesophageal Reflux Disease"
+  },
+  {
+    "text":"I've been feeling hot and feverish for a few days now. I also have a rash all over my body that itches like crazy.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, and muscle pain.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing back pain, neck pain, dizziness, and loss of balance.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I have been experiencing pain and swelling in my legs. The pain is worse when I stand for long periods of time.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have a wound that doesn't seem to heal. My hands and feet are numb and tingly.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have difficulty concentrating and I forget things a lot. I have low mental clarity and I have trouble remembering things.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I've been having chest pain, dizziness, and a headache that feels like a constant pressure in my forehead.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I've been having trouble swallowing, and my appetite has decreased. I also have a sore throat, and my nose has been running.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have been feeling really sick lately. I have been having chills and fever, and my stomach has been hurting really badly. I just don't feel like myself at all.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I've been having chest pains, headaches, and I've been feeling dizzy.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I have been experiencing muscle wasting, high fever, and extra marital contacts.",
+    "label_string":"Aids"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, cough, high fever, breathlessness, sweating, phlegm, chest pain, fast heart rate, and rusty sputum.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have a rash all over my body and I feel really sick. I have a fever and a headache and I don't know what's wrong.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I've been feeling really cold and tired lately. I've been coughing a lot, and it hurts when I breathe. My heart is beating really fast, and when I cough, I cough up phlegm that's kind of a rusty color.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I've been feeling really weak in my muscles lately and my neck has been really stiff. It's been hard for me to move around because my joints are swollen and it hurts to walk.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have red, scaly patches on my skin. They are itchy and sometimes painful. They are usually on my knees, elbows, and scalp.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing fatigue, cough, high fever, breathlessness, and mucoid sputum.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have a rash all over my body, and I can't stop scratching because my skin is itchy. My skin also has a few spots where the color is different and some lumps and knot-like pimples.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I'm having trouble breathing. I'm sweating and my heart is racing. My chest hurts and I'm coughing up dark, stringy mucus.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have a headache and my eyes hurt. I have red spots on my neck and face and rashes on my arms. My arms and legs hurt a lot. The spots are itchy and uncomfortable.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I get heartburn and indigestion a lot. It's worse when I eat spicy or fatty foods. I also get chest pain that gets worse when I lie down or bend over.",
+    "label_string":"Gastroesophageal Reflux Disease"
+  },
+  {
+    "text":"My neck is weak and stiff. My joints are enlarged and it is hard for me to walk without feeling stiff. Walking is also excruciatingly uncomfortable.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, chills, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, and muscle pain.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, and blood in sputum.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I have been experiencing fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, and palpitations.",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"I've been having some weird changes in my monthly cycle, and I've been having some unexpected vaginal discharge. I've also been feeling really moody and agitated lately.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have been experiencing chest pain, dizziness, loss of balance, and lack of concentration.",
+    "label_string":"Hypertension "
+  },
+  {
+    "text":"I'm having trouble breathing and I'm sweating a lot. My throat is really sore and I have a lot of mucus. My heart is racing and my chest hurts. I'm coughing up red stuff.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have been experiencing vomiting, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, and fluid overload.",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"I have been experiencing skin rash, nodal skin eruptions, and dischromic  patches.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have been having a very low temperature and my pee smells really bad. The area near my kidneys hurts a lot and I can't seem to hold my pee. I often get these uncontrollable urges to go to the bathroom.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been having headaches and distorted vision, excessive hunger, a stiff neck, depression, irritability, and visual disturbance.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been experiencing fatigue, nausea, loss of appetite, yellowing of eyes, and family history.",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"I've been having chest pain, dizziness, and a headache that feels like it's in a narrow zone around my head.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I've had trouble sleeping because of the rash's pain and itching. The skin on my fingers are starting to peel off. My nails have a few tiny cracks, which is really worrying. ",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing stomach pain, acidity, ulcers on tongue, vomiting, and chest pain.",
+    "label_string":"Gerd"
+  },
+  {
+    "text":"I have skin irritations and rashes, especially in the crevices of my skin. My skin bruises and cuts take a while to heal as well.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look, and belly pain.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, and stomach bleeding.",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"I've been having trouble concentrating and focusing. I've also been having headaches, chest pain, and dizziness. I feel like I'm off balance.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I have been experiencing fatigue, mood swings, weight loss, restlessness, sweating, fast heart rate, excessive hunger, muscle weakness, irritability, and abnormal menstruation.",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"I have been vomiting frequently and have lost my appetite as a result. There are rashes on my skin and my eyes pain, because of which I cannot sleep properly.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I've been having headaches and chest pains for a few days, but today the dizziness and lack of balance got a lot worse.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I've been feeling really sick and tired. I've also had a fever and lost a lot of weight. My skin and urine have both turned yellow. I've also been having some stomach pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been having constipation and stomach ache for a few days now. It is really uncomfortable and it is starting to affect my everyday life.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I'm losing my hair, and it's getting really dry and itchy. My dandruff is getting worse, and my skin is also really dry.",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"I have blood in my urine and I have a low fever. I have a headache and I have to pee a lot. I have pain in my lower back. ",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have been experiencing yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, and fluid overload.",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, yellowish skin, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, fatigue, lethargy, high fever, loss of appetite, mild fever, swelled lymph nodes, malaise, and red spots over body.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing headache, nausea, spinning movements, loss of balance, and unsteadiness.",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"I have been experiencing vomiting, indigestion, loss of appetite, passage of gases, and internal itching.",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"I have a runny nose and I am sneezing all the time. My eyes are itchy and often watery, and I am coughing all the time. My head hurts all the time. I am also feeling very tired.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have been experiencing headaches, blurred and distorted vision, and visual disturbance. These symptoms have been affecting my daily life and causing me discomfort.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, weight loss, cough, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, and blood in sputum.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I've been having a hard time breathing lately. I've been coughing a lot, and it's hard to get a full breath. I'm also feeling really tired and weak.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have a lot of hunger and I can't seem to get enough to eat. My stomach hurts and cramps sometimes. After I eat, I get really bad gas and bloating.",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have red blotches all over my body and they are itchy. Some of the patches are different colors than my skin and I have bumps on my skin.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I have a lot of belching and burping. I also have chest pain that goes to my back, neck, and arm. I feel pressure and stress in my chest.",
+    "label_string":"Gastroesophageal Reflux Disease"
+  },
+  {
+    "text":"I've been having trouble breathing, coughing a lot, and running a fever. I've also been coughing up a lot of thick, mucusy stuff, and I'm feeling really tired. I'm not sure what's going on, but I'm not feeling well.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, and muscle pain.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I've been feeling really sick for the past week. I've been vomiting and having diarrhea, and I've lost a lot of weight. I also have a fever, headache, and stomach pain. I'm really worried about my health.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing fatigue, yellowish skin, nausea, loss of appetite, and yellowing of eyes.",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"I've been feeling really sick lately. I've been having a lot of nausea and vomiting, and I've lost my appetite. I've also been feeling really weak.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have a really bad cold. My nose is running and my eyes are all red and swollen. I've been coughing a lot and my chest feels really heavy. I can't smell anything and my muscles are really sore.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, high fever, nausea, constipation, abdominal pain, diarrhoea, toxic look, and belly pain.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have been experiencing shivering, chills, and watering from eyes.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I've been feeling really weak and tired lately, and I have a cough that just won't go away. I've also been running a high fever, and it's been hard for me to breathe. I've been coughing up a lot of mucous.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing fatigue, cough, high fever, family history, and mucoid sputum.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I've been having a lot of pain in my neck and back. I've also been having trouble with my balance and coordination. I've been coughing a lot and my limbs feel weak.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I have stomach cramps, nausea and diarrhea. My throat is swollen, and I have difficulty breathing. Sometimes at night I get chest pain and nauseous.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I've been feeling really unwell recently. I've been having chills, a cough, and a high temperature. I've also been struggling to breathe and I've been sweating a lot. I've also had some thick, black phlegm.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I'm always thirsty and hungry, and I have to pee all the time. I've also lost a lot of weight recently, and I'm always tired.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have been experiencing itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellowing of eyes, malaise, receiving blood transfusion, and receiving unsterile injections.",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"I've been feeling really tired and weak, and I can't seem to get enough sleep. I've also noticed some small red spots on my arms and legs. ",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have a skin condition that causes dry, flaky patches on my skin. I also have joint pain and the skin on my knees and elbows is peeling off.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing headache, chest pain, dizziness, and loss of balance.",
+    "label_string":"Hypertension "
+  },
+  {
+    "text":"I have been experiencing itching, nodal skin eruptions, and dischromic  patches.",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"I've been feeling really dizzy and lightheaded lately. I also have a headache and my chest hurts. I'm not sure what's going on, but I'm worried.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I have been experiencing weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, and polyuria.",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"I have been feeling fine all day, but suddenly developed a headache, chest pain, and dizziness while out for a run. It's been hard for me to maintain my balance since then. I'm not sure what's going on, but I'm worried.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I have been coughing a lot lately, and it is hard for me to breathe. I also have a fever, and I feel weak and tired.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, and abdominal pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I've been feeling really sick for the past few days. I have a high fever, chills, and intense itching. I've also been vomiting and sweating a lot. I have a headache and my muscles are aching. I feel really miserable.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"           Thyroid gland       Open pop-up dialog box          Close    Thyroid gland   Thyroid gland The thyroid gland is located at the base of the neck, just below the Adam's apple.               Thyroid gland       Open pop-up dialog box           Thyroid gland       Open pop-up dialog box  Open pop-up dialog box       Close    Thyroid gland   Thyroid gland The thyroid gland is located at the base of the neck, just below the Adam's apple.          Close    Thyroid gland   Thyroid gland The thyroid gland is located at the base of the neck, just below the Adam's apple.        Close    Thyroid gland   Thyroid gland The thyroid gland is located at the base of the neck, just below the Adam's apple.     Close    Close  Close Thyroid gland   Thyroid gland The thyroid gland is located at the base of the neck, just below the Adam's apple.  Thyroid gland The thyroid gland is located at the base of the neck, just below the Adam's apple. The thyroid gland is located at the base of the neck, just below the Adam's apple. The symptoms of hypothyroidism depend on the severity of the condition. Problems tend to develop slowly, often over several years. At first, you may barely notice the symptoms of hypothyroidism, such as fatigue and weight gain. Or you may think they are just part of getting older. But as your metabolism continues to slow, you may develop more-obvious problems. Hypothyroidism symptoms may include:  Tiredness. More sensitivity to cold. Constipation. Dry skin. Weight gain. Puffy face. Hoarse voice. Coarse hair and skin. Muscle weakness. Muscle aches, tenderness and stiffness. Menstrual cycles that are heavier than usual or irregular. Thinning hair. Slowed heart rate, also called bradycardia. Depression. Memory problems.  Hypothyroidism in infants Anyone can get hypothyroidism, including infants. Most babies born without a thyroid gland or with a gland that doesn't work correctly don't have symptoms right away. But if hypothyroidism isn't diagnosed and treated, symptoms start to appear. They may include:  Feeding problems. Poor growth. Poor weight gain. Yellowing of the skin and the whites of the eyes, a condition called jaundice. Constipation. Poor muscle tone. Dry skin. Hoarse crying. Enlarged tongue. A soft swelling or bulge near the belly button, a condition called umbilical hernia.  When hypothyroidism in infants isn't treated, even mild cases can lead to severe physical and mental development problems. Hypothyroidism in children and teens In general, children and teens with hypothyroidism have symptoms similar to those in adults. But they also may have:  Poor growth that leads to short stature. Delayed development of permanent teeth. Delayed puberty. Poor mental development. ",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"I've been feeling really sick. I've been throwing up and I'm itchy. I've also lost a lot of weight and I'm exhausted. My skin has turned yellow and my fever is high. I also have stomach ache and my urine is dark.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, fatigue, lethargy, high fever, headache, mild fever, swelled lymph nodes, malaise, and red spots over body.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing vomiting, headache, nausea, loss of balance, and unsteadiness.",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"I have cracks in my palms and soles that are painful and bleed. The skin is also peeling off.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I've been having a lot of back pain, and my neck hurts too. I've also been feeling lightheaded and unsteady, and my arms and legs are numb.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"I have asthma and get wheezing and breathing issues. I also have fevers, headaches, and I'm always tired.",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"I have been experiencing fatigue, mood swings, weight loss, restlessness, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, and abnormal menstruation.",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"I've been feeling really sick lately. I've been itchy and throwing up, and I've lost a lot of weight. My skin has turned yellow, and I've been having a high fever. My stomach has also been hurting.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have a high fever, chills, and severe itching. I also have a headache, excessive sweating, nausea, and muscle aches.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have swelling in my legs that makes it hard to fit into my shoes. I can't sprint or stand for long periods of time. I can see some swollen blood vessels.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I've been feeling really tired and my eyes have been really red. My nose is stuffy and I've been coughing up a lot of phlegm. I've also noticed my lymph nodes are swollen.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, yellowish skin, nausea, abdominal pain, and yellowing of eyes.",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"Although your body can harbor the bacteria that cause tuberculosis, your immune system usually can prevent you from becoming sick. For this reason, doctors make a distinction between:  Latent TB. You have a TB infection, but the bacteria in your body are inactive and cause no symptoms. Latent TB, also called inactive TB or TB infection, isn't contagious. Latent TB can turn into active TB, so treatment is important. Active TB. Also called TB disease, this condition makes you sick and, in most cases, can spread to others. It can occur weeks or years after infection with the TB bacteria.  Signs and symptoms of active TB include: TB  Coughing for three or more weeks Coughing up blood or mucus Chest pain, or pain with breathing or coughing Unintentional weight loss Fatigue Fever Night sweats Chills Loss of appetite  Tuberculosis can also affect other parts of your body, including the kidneys, spine or brain. When TB occurs outside your lungs, signs and symptoms vary according to the organs involved. For example, tuberculosis of the spine might cause back pain, and tuberculosis in your kidneys might cause blood in your urine.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I've been vomiting and having diarrhea for a few days. I've been having trouble keeping hydrated because of it. I also have a mild fever and constipation. My head hurts a little bit too.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"I have a lot of pain in my legs, especially when I stand for long periods of time. The skin around my veins is red and inflamed, and it is itchy. I also get regular cramps.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I've got a cold. I'm coughing a lot, and my nose is running like crazy. I can't smell anything, and my chest hurts. My muscles are sore too.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, yellowish skin, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have been experiencing cough, high fever, breathlessness, family history, and mucoid sputum.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have a high fever, chills, nausea, and severe itching. I also have a headache and am sweating a lot. I have muscle aches and nausea.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing vomiting, yellowish skin, abdominal pain, distention of abdomen, history of alcohol consumption, and fluid overload.",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"I've been having a headache and chest pain for a few days, but today I've also been feeling dizzy and unsteady on my feet.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I have been experiencing vomiting, headache, nausea, spinning movements, and unsteadiness.",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"I have a fever, chills, and vomiting. I also have a headache, and I've been sweating a lot. I also feel nauseous and have muscle aches.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, fatigue, weight loss, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, and blood in sputum.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I have a rash on my skin that is made up of blisters. The blisters are painful and they are filled with fluid. I also have a fever.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have been experiencing fatigue, weight loss, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, and polyuria.",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"I've been having a lot of headaches and blurred vision. I also feel like I'm always hungry and my neck is sore. I've been feeling really irritable and sad too.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, and stomach bleeding.",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"I have been experiencing joint pain, neck pain, hip joint pain, swelling joints, and painful walking.",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"I have been experiencing itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, malaise, and red spots over body.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing muscle weakness, swelling joints, movement stiffness, and painful walking.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have been experiencing vomiting, high fever, sweating, headache, nausea, diarrhoea, and muscle pain.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I've been experiencing headaches, chest pain, and dizziness. I've also been having trouble walking and concentrating.",
+    "label_string":"Hypertension"
+  },
+  {
+    "text":"I have been experiencing fatigue, weight loss, restlessness, lethargy, irregular sugar level, obesity, excessive hunger, increased appetite, and polyuria.",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"I have been feeling very sick for the past few days. I have been vomiting, having diarrhea, and feeling very tired. My skin has also turned yellow and my urine is dark. I am also experiencing abdominal pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been experiencing constipation, pain during bowel movements, pain in anal region, and irritation in anus.",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"I've been feeling really hot and cold lately. I've also been itching a lot and have a headache. I've been sweating a lot and feel nauseous. My muscles are also aching.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing sunken eyes, dehydration, and diarrhoea.",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"I have been experiencing muscle wasting, patches in throat, and high fever.",
+    "label_string":"Aids"
+  },
+  {
+    "text":"I have a burning ache in my legs that gets worse when I stand or walk for long periods of time.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I've been sneezing a lot and I have a really bad cough. I feel weak and exhausted, and my temperature is high.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have a burning sensation in my chest that comes and goes. I feel like food or acid is backing up in my throat. My chest discomfort only becomes worse while I'm lying down. After eating, I frequently have heartburn or indigestion and throw up.",
+    "label_string":"Gastroesophageal Reflux Disease"
+  },
+  {
+    "text":"I have been experiencing vomiting, sunken eyes, and dehydration.",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"I have a lot of skin irritations and rashes, especially in the creases of my skin. Any wounds or bruises I have on my skin also heal very slowly.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I've been feeling really weak and my neck is really stiff. It's hard to move around because my joints are swollen and it's uncomfortable to walk.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have been experiencing skin rash, skin peeling, silver like dusting, small dents in nails, and inflammatory nails.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"My genitals are red and irritated. It is often itchy, burning, and painful. I also have rashes on other parts of my body and my joints hurt.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have a fever and my back hurts. I also have rashes on my arms and neck and the back of my eyes hurt. I am worried about my health.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have a rash on my skin that has blisters. The blisters are filled with fluid and are painful to touch. I also have a fever.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have a chronic bad breath and a sour taste in my mouth, It sometimes gets difficult to swallow food because of this tingling sensation in my throat",
+    "label_string":"Gastroesophageal Reflux Disease"
+  },
+  {
+    "text":"I have been experiencing muscle weakness, stiff neck, movement stiffness, and painful walking.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have a rash on my face. It is made up of blisters. The blisters have a yellow fluid coming out of them.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I've been vomiting a lot and I'm not hungry. My muscles, joints and back hurt all the time. I'm starting to have a fever too. I'm really worried and not sure what to do.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have noticed cramps in my calves are becoming more frequent and intense. It is causing me a lot of discomforts. I am also overweight and my legs have started to swell. I am worried that I may have varicose veins.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I'm always thirsty and I'm peeing a lot. I'm also losing weight and I'm feeling really tired.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have been experiencing vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"I'm always feeling tired and worn out. My vision is blurry and seems to be getting worse. I also get dizzy and lightheaded sometimes.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have been experiencing muscle wasting, patches in throat, and extra marital contacts.",
+    "label_string":"Aids"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, cough, high fever, sweating, malaise, phlegm, chest pain, fast heart rate, and rusty sputum.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have a cough that won't go away, and I'm always sneezing. I also have palpitations, and my infections don't seem to be healing. My throat hurts sometimes, but it usually gets better.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have been feeling very tired and weak. I have also been vomiting and have developed rashes on my arms, neck, and legs. ",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have been experiencing vomiting, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, and palpitations.",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, abdominal pain, and yellowing of eyes.",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"I have been experiencing fatigue, yellowish skin, nausea, yellowing of eyes, and family history.",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"I've been feeling really sick. I have a high fever, chills, and severe itching. I've also been vomiting and having a headache. I'm also sweating a lot and feeling nauseous and achy.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing neck pain, knee pain, hip joint pain, swelling joints, and painful walking.",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"I have to pee a lot and I'm always thirsty. I get dizzy and confused sometimes. I've also lost a lot of my vision.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have small red bumps on my arms and face. They are itchy and make my day very uncomfortable.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, and irritability.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, high fever, sweating, headache, nausea, and muscle pain.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have trouble breathing, especially when I exercise. I sweat and get flushed for no reason. I get yeast infections and urinary tract infections a lot.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, yellowish skin, nausea, loss of appetite, and abdominal pain.",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"I have a really bad rash on my skin. It's really itchy and painful. I also have a fever, headache, and fatigue.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have been experiencing continuous sneezing, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, and muscle pain.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I've been coughing a lot, and I feel cold and shivery. My nose is stuffy, and I feel pressure in my face. I have a lot of phlegm, and coughing hurts my chest. I can't smell anything, and my muscles hurt.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I have been experiencing chills, vomiting, sweating, headache, nausea, diarrhoea, and muscle pain.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I have been experiencing chills, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, and blood in sputum.",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, fatigue, high fever, yellowish skin, dark urine, and abdominal pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been having headaches for a while now. They are usually on the left side of my head and they are very painful. I also get nauseous and dizzy when I have a headache.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I'm having trouble breathing and have a fever. I'm sweating a lot and feel really tired and cold. My heart is racing and I'm coughing up some brown mucus.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have been experiencing itching, fatigue, lethargy, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, and receiving unsterile injections.",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"I have a lot of red spots on my arms and back. They are itchy and I feel tired all the time. I am worried about what it could be.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I'm always thirsty and I pee a lot. I feel really tired and I'm always getting lost. I can't see very well anymore.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I have a rash on my face, especially around my nose. It's red and painful, and there are some yellow sores that are oozing.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I've had a low grade fever for the past four days, and my urine has been bloody. It smells really bad, and my head hurts. I can't control when I have to pee, and I have to go all the time.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I belch and burp a lot. I get chest pain that goes to my arm, jaw, and back of my neck. I feel pressure and stress in my chest.",
+    "label_string":"Gastroesophageal Reflux Disease"
+  },
+  {
+    "text":"I have been experiencing muscle weakness, stiff neck, swelling joints, and painful walking.",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"I have been experiencing chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, and red spots over body.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have been feeling really sick lately. I have been itching all over, and I have been vomiting. I have also lost a lot of weight, and I have a fever. My skin has turned yellow, and my urine is dark. I have also been having abdominal pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have a fever, and I can't breathe well. My heart is racing, and I'm sweating a lot. I feel cold and tired, and I'm about to cough up some brown phlegm.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I've been having trouble breathing, I'm coughing a lot, and I'm really tired. I have a fever and I'm coughing up a lot of mucus.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, mild fever, yellowing of eyes, and muscle pain.",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"I have been experiencing fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, excessive hunger, increased appetite, and polyuria.",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"I have to go to the bathroom a lot, but when I get there, I can't seem to empty my bladder. Sometimes, I get a really strong urge to go, and my urine is dark or red.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have rashes all over my body. I also have a high fever, chills, headache, body aches, and pain behind my eyes.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have been experiencing skin rash, chills, joint pain, vomiting, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, and red spots over body.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have been experiencing itching, vomiting, nausea, loss of appetite, abdominal pain, and yellowing of eyes.",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"I've noticed that my legs have been swollen for a few weeks now, and it's starting to get worse. I'm also having trouble fitting into my shoes, and it's uncomfortable to sit for long periods of time.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have a wound that is not healing well. My hands and feet are numb and tingling.",
+    "label_string":"Diabetes"
+  },
+  {
+    "text":"I frequently vomit and get pain in my pelvic area. My urine sometimes smells really bad, and sometimes there is blood in it. I have trouble falling asleep because of my headaches sometimes.",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"I have pain in my joints and back. I feel like vomiting and I am very weak. I am not able to focus on my work and don\u2019t feel like doing anything.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I've been having a fever for a few days, and it's been getting worse. I'm having trouble breathing, and I'm coughing up a lot of phlegm. I'm also feeling really tired and weak.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I have back pain, difficulty breathing, and weakness in my limbs. I also have balance and dizziness issues, and my neck hurts.",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"My legs are really bothering me. I get cramps when I exercise and the blood vessels are really noticeable.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have little red spots all over my body. I don't know what they are and they are worrying me. I have also lost my appetite and every night I am exhausted and have a severe headache.",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"I have red, itchy, and scaly patches on my skin. They are often on my genitals, but I also have them on other parts of my body. They are sometimes painful and uncomfortable.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have been experiencing acidity, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, and visual disturbances.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been experiencing pain during bowel movements, pain in anal region, bloody stool, and irritation in anus.",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"I have been experiencing joint pain, neck pain, knee pain, swelling joints, and painful walking.",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"I've been having chills, nausea, a high temperature, and a headache. I've also been sweating a lot and feeling muscle aches.",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"I've been coughing a lot and having trouble breathing. I'm also very tired and weak, and I have a high fever.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"Symptoms of a heart attack vary. Some people have mild symptoms. Others have severe symptoms. Some people have no symptoms. Common heart attack symptoms include:  Chest pain that may feel like pressure, tightness, pain, squeezing or aching Pain or discomfort that spreads to the shoulder, arm, back, neck, jaw, teeth or sometimes the upper belly Cold sweat Fatigue Heartburn or indigestion Lightheadedness or sudden dizziness Nausea Shortness of breath  Women may have atypical symptoms such as brief or sharp pain felt in the neck, arm or back. Sometimes, the first symptom sign of a heart attack is sudden cardiac arrest. Some heart attacks strike suddenly. But many people have warning signs and symptoms hours, days or weeks in advance. Chest pain or pressure (angina) that keeps happening and doesn't go away with rest may be an early warning sign. Angina is caused by a temporary decrease in blood flow to the heart.",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"I have been feeling nauseous and have a constant urge to vomit. I get high fever and chills every night and feel terrible because of this. Also, I feel I have lost my appetite.",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"I have a fever and feel weak. I have sores on my face that are itchy and painful. They leak a yellow ooze.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I have sores on my face that are healing very slowly and are getting infected. The sores are large and painful to the touch. I can't seem to get rid of them.",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"I've been feeling really tired lately and have had this cough for a few days. It's getting harder to breathe and I'm coughing up a lot of phlegm. My fever is really high too.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been having migraines for a few days. I have distorted eyesight, excessive appetite, a painful neck, melancholy, irritability, acid reflux, indigestion, and regular headaches.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been having headaches for a while now. They are really bad and make it hard to concentrate. I also have blurred vision, and I feel really nauseous. I'm not sure what's causing it, but I'm hoping you can help me figure it out.",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"I have been having cramps in my calves when I walk or stand for long periods of time. I have also noticed bruise marks on my calves. I feel tired very soon.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I've had a nasty cough and cold for days. My nose is stuffy and my sinuses are congested. I've also been coughing up mucus, and it hurts my chest to cough. I can't smell anything and my muscles are aching.",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"I'm so tired and weak, and my fever is really high. It's been hard to deal with all of these symptoms, and I've also been coughing up a lot of mucus. I'm getting really frustrated.",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"I have been experiencing vomiting, headache, spinning movements, loss of balance, and unsteadiness.",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"I'm having trouble breathing and feeling really sick. I'm sweating a lot and feel terrible. My chest hurts and I have a lot of mucus in my throat. My heart is racing and the color of the mucus I'm coughing up is strange.",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"I've been feeling scratchy, sick, and worn out. I also had a high fever and lost weight. My skin and urine have turned yellow. I've also been having stomach pain.",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"I have been having bloody stools for a while now, and I am also feeling weak. I think I may have anaemia.",
+    "label_string":"Peptic Ulcer Disease"
+  },
+  {
+    "text":"I have been experiencing skin rash, joint pain, skin peeling, small dents in nails, and inflammatory nails.",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"I have some veins on my legs that are swollen and protruding from my skin. They are very noticeable and make me self-conscious.",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"I have been experiencing vomiting, indigestion, loss of appetite, abdominal pain, and internal itching.",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"I've been having a lot of trouble breathing, and I feel like I'm constantly nauseous. I also have mild belly pain. It's been really scary.",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"fatigue,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"constipation,pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"chills,vomiting,fatigue,weight_loss,cough,high_fever,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"vomiting,breathlessness,sweating,chest_pain",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"stomach_pain,acidity,ulcers_on_tongue,vomiting,cough,chest_pain",
+    "label_string":"Gerd"
+  },
+  {
+    "text":"skin_rash,chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain,red_spots_over_body",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"vomiting,headache,altered_sensorium",
+    "label_string":"Paralysis (Brain Hemorrhage)"
+  },
+  {
+    "text":"burning_micturition,bladder_discomfort,continuous_feel_of_urine",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"skin_rash,high_fever,blister,red_sore_around_nose,yellow_crust_ooze",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"itching,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"chills,vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"vomiting,sunken_eyes,dehydration,diarrhoea",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"fatigue,cramps,bruising,obesity,swollen_legs,prominent_veins_on_calf",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"joint_pain,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma,stomach_bleeding",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"pus_filled_pimples,blackheads,scurring",
+    "label_string":"Acne"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"vomiting,headache,weakness_of_one_body_side",
+    "label_string":"Paralysis (Brain Hemorrhage)"
+  },
+  {
+    "text":"continuous_sneezing,shivering,chills,watering_from_eyes",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"vomiting,headache,nausea,spinning_movements,loss_of_balance,unsteadiness",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"joint_pain,neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"fatigue,cramps,bruising,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"skin_rash,joint_pain,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"itching,skin_rash,stomach_pain,burning_micturition,spotting__urination",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"vomiting,headache,weakness_of_one_body_side,altered_sensorium",
+    "label_string":"Paralysis (Brain Hemorrhage)"
+  },
+  {
+    "text":"itching,skin_rash,dischromic__patches",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"fatigue,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"stomach_pain,ulcers_on_tongue,vomiting,cough,chest_pain",
+    "label_string":"Gerd"
+  },
+  {
+    "text":"fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability,abnormal_menstruation",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"vomiting,indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"joint_pain,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"vomiting,breathlessness,chest_pain",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"chills,vomiting,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"stiff_neck,swelling_joints,movement_stiffness,painful_walking",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"vomiting,fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,slurred_speech,irritability,palpitations",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma,stomach_bleeding",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"continuous_sneezing,shivering,watering_from_eyes",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"stomach_pain,acidity,ulcers_on_tongue,cough,chest_pain",
+    "label_string":"Gerd"
+  },
+  {
+    "text":"skin_rash,blackheads,scurring",
+    "label_string":"Acne"
+  },
+  {
+    "text":"muscle_weakness,stiff_neck,swelling_joints,movement_stiffness,painful_walking",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"chills,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"itching,skin_rash,stomach_pain,burning_micturition",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"skin_rash,pus_filled_pimples,blackheads",
+    "label_string":"Acne"
+  },
+  {
+    "text":"chills,vomiting,high_fever,sweating,headache,diarrhoea,muscle_pain",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"indigestion,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"itching,skin_rash,nodal_skin_eruptions,dischromic__patches",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"weakness_in_limbs,neck_pain,dizziness,loss_of_balance",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"fatigue,high_fever,breathlessness,family_history,mucoid_sputum",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"acidity,indigestion,headache,blurred_and_distorted_vision,stiff_neck,depression,irritability,visual_disturbances",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"headache,chest_pain,dizziness,loss_of_balance,lack_of_concentration",
+    "label_string":"Hypertension "
+  },
+  {
+    "text":"joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"fatigue,cough,high_fever,breathlessness,family_history,mucoid_sputum",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"vomiting,nausea,spinning_movements,loss_of_balance,unsteadiness",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"joint_pain,vomiting,yellowish_skin,dark_urine,nausea,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"constipation,pain_in_anal_region,bloody_stool,irritation_in_anus",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"vomiting,sweating,chest_pain",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"chills,fatigue,cough,high_fever,breathlessness,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"skin_rash,pus_filled_pimples,blackheads,scurring",
+    "label_string":"Acne"
+  },
+  {
+    "text":"itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,coma,stomach_bleeding",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"fatigue,weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability,abnormal_menstruation",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes,family_history",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"constipation,pain_during_bowel_movements,bloody_stool,irritation_in_anus",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"vomiting,dehydration,diarrhoea",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,depression,irritability,visual_disturbances",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"muscle_wasting,patches_in_throat,high_fever,extra_marital_contacts",
+    "label_string":"Aids"
+  },
+  {
+    "text":"continuous_sneezing,chills,watering_from_eyes",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"headache,dizziness,loss_of_balance,lack_of_concentration",
+    "label_string":"Hypertension "
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"chills,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"breathlessness,sweating,chest_pain",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"skin_rash,high_fever,blister,red_sore_around_nose",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"chills,fatigue,cough,breathlessness,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"burning_micturition,bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"vomiting,fatigue,anxiety,sweating,headache,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion,chest_pain,loss_of_smell,muscle_pain",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"itching,stomach_pain,burning_micturition,spotting__urination",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"joint_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"chills,vomiting,high_fever,headache,nausea,diarrhoea,muscle_pain",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"chills,vomiting,fatigue,high_fever,headache,nausea,constipation,diarrhoea,toxic_look_(typhos),belly_pain",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"joint_pain,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"vomiting,weakness_of_one_body_side,altered_sensorium",
+    "label_string":"Paralysis (Brain Hemorrhage)"
+  },
+  {
+    "text":"chills,fatigue,cough,high_fever,breathlessness,sweating,malaise,chest_pain,fast_heart_rate,rusty_sputum",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"back_pain,weakness_in_limbs,neck_pain,dizziness,loss_of_balance",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"skin_rash,high_fever,red_sore_around_nose,yellow_crust_ooze",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"bladder_discomfort,foul_smell_of_urine,continuous_feel_of_urine",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"chills,vomiting,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"vomiting,indigestion,abdominal_pain,passage_of_gases,internal_itching",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"fatigue,cough,high_fever,breathlessness,family_history",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"itching,fatigue,lethargy,yellowish_skin,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"fatigue,cramps,bruising,obesity,swollen_blood_vessels,prominent_veins_on_calf",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"fatigue,weight_gain,cold_hands_and_feets,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability,abnormal_menstruation",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"fatigue,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability,abnormal_menstruation",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"burning_micturition,bladder_discomfort,foul_smell_of_urine",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"vomiting,sunken_eyes,diarrhoea",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,abdominal_pain",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"skin_rash,high_fever,blister,yellow_crust_ooze",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"skin_rash,chills,joint_pain,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain,red_spots_over_body",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"itching,vomiting,fatigue,weight_loss,yellowish_skin,dark_urine,abdominal_pain",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"fatigue,cramps,obesity,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"itching,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"mood_swings,weight_loss,restlessness,sweating,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"continuous_sneezing,chills,fatigue,cough,high_fever,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion,chest_pain,loss_of_smell,muscle_pain",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"skin_rash,chills,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain,red_spots_over_body",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"itching,skin_rash,fatigue,lethargy,headache,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"vomiting,fatigue,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"itching,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"skin_rash,blister,red_sore_around_nose,yellow_crust_ooze",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,fluid_overload",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,high_fever,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma,stomach_bleeding",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"continuous_sneezing,shivering,chills",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,swelled_lymph_nodes,malaise,red_spots_over_body",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"burning_micturition,foul_smell_of_urine,continuous_feel_of_urine",
+    "label_string":"Urinary Tract Infection"
+  },
+  {
+    "text":"continuous_sneezing,chills,fatigue,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion,chest_pain,loss_of_smell,muscle_pain",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"fatigue,mood_swings,weight_loss,restlessness,sweating,diarrhoea,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"vomiting,breathlessness,sweating",
+    "label_string":"Heart Attack"
+  },
+  {
+    "text":"high_fever,blister,red_sore_around_nose,yellow_crust_ooze",
+    "label_string":"Impetigo"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,yellowing_of_eyes",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"itching,vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"skin_rash,chills,joint_pain,vomiting,fatigue,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain,red_spots_over_body",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"vomiting,yellowish_skin,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"skin_rash,joint_pain,skin_peeling,silver_like_dusting,inflammatory_nails",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"skin_rash,stomach_pain,burning_micturition,spotting__urination",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"skin_rash,joint_pain,silver_like_dusting,small_dents_in_nails,inflammatory_nails",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"joint_pain,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"itching,skin_rash,nodal_skin_eruptions",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"chills,vomiting,fatigue,high_fever,headache,nausea,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma,stomach_bleeding",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"back_pain,weakness_in_limbs,neck_pain,dizziness",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"fatigue,yellowish_skin,nausea,loss_of_appetite,family_history",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"vomiting,yellowish_skin,abdominal_pain,swelling_of_stomach,history_of_alcohol_consumption,fluid_overload",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,diarrhoea,mild_fever,yellowing_of_eyes,muscle_pain",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"weight_gain,cold_hands_and_feets,mood_swings,lethargy,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability,abnormal_menstruation",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"patches_in_throat,high_fever,extra_marital_contacts",
+    "label_string":"Aids"
+  },
+  {
+    "text":"itching,vomiting,fatigue,weight_loss,high_fever,dark_urine,abdominal_pain",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"fatigue,cramps,bruising,swollen_legs,swollen_blood_vessels,prominent_veins_on_calf",
+    "label_string":"Varicose Veins"
+  },
+  {
+    "text":"vomiting,loss_of_appetite,abdominal_pain,passage_of_gases,internal_itching",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"muscle_weakness,stiff_neck,swelling_joints,movement_stiffness",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"itching,fatigue,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"fatigue,weight_gain,cold_hands_and_feets,mood_swings,dizziness,puffy_face_and_eyes,enlarged_thyroid,brittle_nails,swollen_extremeties,depression,irritability,abnormal_menstruation",
+    "label_string":"Hypothyroidism"
+  },
+  {
+    "text":"back_pain,weakness_in_limbs,neck_pain,loss_of_balance",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"vomiting,fatigue,anxiety,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"itching,skin_rash,stomach_pain,spotting__urination",
+    "label_string":"Drug Reaction"
+  },
+  {
+    "text":"chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion,chest_pain,loss_of_smell,muscle_pain",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"back_pain,neck_pain,dizziness,loss_of_balance",
+    "label_string":"Cervical Spondylosis"
+  },
+  {
+    "text":"muscle_wasting,high_fever,extra_marital_contacts",
+    "label_string":"Aids"
+  },
+  {
+    "text":"chills,fatigue,cough,high_fever,breathlessness,sweating,phlegm,chest_pain,fast_heart_rate,rusty_sputum",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"fatigue,cough,high_fever,breathlessness,mucoid_sputum",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"continuous_sneezing,chills,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion,chest_pain,loss_of_smell,muscle_pain",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"chills,vomiting,fatigue,weight_loss,cough,high_fever,breathlessness,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"fatigue,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"chest_pain,dizziness,loss_of_balance,lack_of_concentration",
+    "label_string":"Hypertension "
+  },
+  {
+    "text":"vomiting,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"skin_rash,nodal_skin_eruptions,dischromic__patches",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"fatigue,nausea,loss_of_appetite,yellowing_of_eyes,family_history",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"stomach_pain,acidity,ulcers_on_tongue,vomiting,chest_pain",
+    "label_string":"Gerd"
+  },
+  {
+    "text":"chills,fatigue,high_fever,headache,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma,stomach_bleeding",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"fatigue,mood_swings,weight_loss,restlessness,sweating,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"yellowish_skin,abdominal_pain,swelling_of_stomach,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"itching,vomiting,yellowish_skin,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"itching,skin_rash,fatigue,lethargy,high_fever,loss_of_appetite,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"headache,nausea,spinning_movements,loss_of_balance,unsteadiness",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"vomiting,indigestion,loss_of_appetite,passage_of_gases,internal_itching",
+    "label_string":"Peptic Ulcer Diseae"
+  },
+  {
+    "text":"chills,vomiting,fatigue,weight_loss,cough,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"continuous_sneezing,chills,fatigue,cough,high_fever,headache,swelled_lymph_nodes,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion,chest_pain,loss_of_smell,muscle_pain",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"fatigue,yellowish_skin,nausea,loss_of_appetite,yellowing_of_eyes",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"chills,vomiting,fatigue,high_fever,nausea,constipation,abdominal_pain,diarrhoea,toxic_look_(typhos),belly_pain",
+    "label_string":"Typhoid"
+  },
+  {
+    "text":"shivering,chills,watering_from_eyes",
+    "label_string":"Allergy"
+  },
+  {
+    "text":"fatigue,cough,high_fever,family_history,mucoid_sputum",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"itching,fatigue,lethargy,yellowish_skin,dark_urine,loss_of_appetite,abdominal_pain,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"headache,chest_pain,dizziness,loss_of_balance",
+    "label_string":"Hypertension "
+  },
+  {
+    "text":"itching,nodal_skin_eruptions,dischromic__patches",
+    "label_string":"Fungal Infection"
+  },
+  {
+    "text":"weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"vomiting,fatigue,weight_loss,high_fever,yellowish_skin,dark_urine,abdominal_pain",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"itching,skin_rash,fatigue,lethargy,high_fever,headache,mild_fever,swelled_lymph_nodes,malaise,red_spots_over_body",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"vomiting,headache,nausea,loss_of_balance,unsteadiness",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"fatigue,mood_swings,weight_loss,restlessness,diarrhoea,fast_heart_rate,excessive_hunger,muscle_weakness,irritability,abnormal_menstruation",
+    "label_string":"Hyperthyroidism"
+  },
+  {
+    "text":"itching,vomiting,yellowish_skin,nausea,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"cough,high_fever,breathlessness,family_history,mucoid_sputum",
+    "label_string":"Bronchial Asthma"
+  },
+  {
+    "text":"vomiting,fatigue,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"vomiting,yellowish_skin,abdominal_pain,distention_of_abdomen,history_of_alcohol_consumption,fluid_overload",
+    "label_string":"Alcoholic Hepatitis"
+  },
+  {
+    "text":"vomiting,headache,nausea,spinning_movements,unsteadiness",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"chills,vomiting,fatigue,weight_loss,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"fatigue,weight_loss,lethargy,irregular_sugar_level,blurred_and_distorted_vision,obesity,excessive_hunger,increased_appetite,polyuria",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"joint_pain,vomiting,high_fever,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes,acute_liver_failure,coma,stomach_bleeding",
+    "label_string":"Hepatitis E"
+  },
+  {
+    "text":"joint_pain,neck_pain,hip_joint_pain,swelling_joints,painful_walking",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"itching,skin_rash,fatigue,lethargy,high_fever,headache,loss_of_appetite,mild_fever,malaise,red_spots_over_body",
+    "label_string":"Chicken Pox"
+  },
+  {
+    "text":"muscle_weakness,swelling_joints,movement_stiffness,painful_walking",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"vomiting,high_fever,sweating,headache,nausea,diarrhoea,muscle_pain",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,obesity,excessive_hunger,increased_appetite,polyuria",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"constipation,pain_during_bowel_movements,pain_in_anal_region,irritation_in_anus",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"sunken_eyes,dehydration,diarrhoea",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"muscle_wasting,patches_in_throat,high_fever",
+    "label_string":"Aids"
+  },
+  {
+    "text":"vomiting,sunken_eyes,dehydration",
+    "label_string":"Gastroenteritis"
+  },
+  {
+    "text":"skin_rash,skin_peeling,silver_like_dusting,small_dents_in_nails,inflammatory_nails",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"muscle_weakness,stiff_neck,movement_stiffness,painful_walking",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"muscle_wasting,patches_in_throat,extra_marital_contacts",
+    "label_string":"Aids"
+  },
+  {
+    "text":"chills,fatigue,cough,high_fever,sweating,malaise,phlegm,chest_pain,fast_heart_rate,rusty_sputum",
+    "label_string":"Pneumonia"
+  },
+  {
+    "text":"vomiting,anxiety,sweating,headache,nausea,blurred_and_distorted_vision,excessive_hunger,drying_and_tingling_lips,slurred_speech,irritability,palpitations",
+    "label_string":"Hypoglycemia"
+  },
+  {
+    "text":"joint_pain,vomiting,fatigue,yellowish_skin,dark_urine,nausea,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Hepatitis D"
+  },
+  {
+    "text":"fatigue,yellowish_skin,nausea,yellowing_of_eyes,family_history",
+    "label_string":"Hepatitis C"
+  },
+  {
+    "text":"neck_pain,knee_pain,hip_joint_pain,swelling_joints,painful_walking",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"acidity,indigestion,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"chills,vomiting,high_fever,sweating,headache,nausea,muscle_pain",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"itching,vomiting,yellowish_skin,nausea,loss_of_appetite,abdominal_pain",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"continuous_sneezing,fatigue,cough,high_fever,headache,swelled_lymph_nodes,malaise,phlegm,throat_irritation,redness_of_eyes,sinus_pressure,runny_nose,congestion,chest_pain,loss_of_smell,muscle_pain",
+    "label_string":"Common Cold"
+  },
+  {
+    "text":"chills,vomiting,sweating,headache,nausea,diarrhoea,muscle_pain",
+    "label_string":"Malaria"
+  },
+  {
+    "text":"chills,fatigue,weight_loss,cough,high_fever,breathlessness,sweating,loss_of_appetite,mild_fever,yellowing_of_eyes,swelled_lymph_nodes,malaise,phlegm,chest_pain,blood_in_sputum",
+    "label_string":"Tuberculosis"
+  },
+  {
+    "text":"itching,vomiting,fatigue,high_fever,yellowish_skin,dark_urine,abdominal_pain",
+    "label_string":"Jaundice"
+  },
+  {
+    "text":"itching,fatigue,lethargy,dark_urine,loss_of_appetite,abdominal_pain,yellow_urine,yellowing_of_eyes,malaise,receiving_blood_transfusion,receiving_unsterile_injections",
+    "label_string":"Hepatitis B"
+  },
+  {
+    "text":"muscle_weakness,stiff_neck,swelling_joints,painful_walking",
+    "label_string":"Arthritis"
+  },
+  {
+    "text":"chills,joint_pain,vomiting,fatigue,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain,red_spots_over_body",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"joint_pain,vomiting,yellowish_skin,dark_urine,nausea,loss_of_appetite,abdominal_pain,mild_fever,yellowing_of_eyes,muscle_pain",
+    "label_string":"Hepatitis A"
+  },
+  {
+    "text":"fatigue,weight_loss,restlessness,lethargy,irregular_sugar_level,blurred_and_distorted_vision,excessive_hunger,increased_appetite,polyuria",
+    "label_string":"Diabetes "
+  },
+  {
+    "text":"skin_rash,chills,joint_pain,vomiting,high_fever,headache,nausea,loss_of_appetite,pain_behind_the_eyes,back_pain,malaise,muscle_pain,red_spots_over_body",
+    "label_string":"Dengue"
+  },
+  {
+    "text":"itching,vomiting,nausea,loss_of_appetite,abdominal_pain,yellowing_of_eyes",
+    "label_string":"Chronic Cholestasis"
+  },
+  {
+    "text":"acidity,headache,blurred_and_distorted_vision,excessive_hunger,stiff_neck,depression,irritability,visual_disturbances",
+    "label_string":"Migraine"
+  },
+  {
+    "text":"pain_during_bowel_movements,pain_in_anal_region,bloody_stool,irritation_in_anus",
+    "label_string":"Dimorphic Hemmorhoids(Piles)"
+  },
+  {
+    "text":"joint_pain,neck_pain,knee_pain,swelling_joints,painful_walking",
+    "label_string":"Osteoarthristis"
+  },
+  {
+    "text":"vomiting,headache,spinning_movements,loss_of_balance,unsteadiness",
+    "label_string":"(Vertigo) Paroymsal  Positional Vertigo"
+  },
+  {
+    "text":"skin_rash,joint_pain,skin_peeling,small_dents_in_nails,inflammatory_nails",
+    "label_string":"Psoriasis"
+  },
+  {
+    "text":"vomiting,indigestion,loss_of_appetite,abdominal_pain,internal_itching",
+    "label_string":"Peptic Ulcer Diseae"
+  }
+]
